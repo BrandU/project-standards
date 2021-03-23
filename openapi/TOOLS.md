@@ -18,10 +18,11 @@ Same applies to VCS / GIT functionality integrated, with great views & diff tool
    1. There might be a prompt to enter your GIT credentials, project should open shortly after,
 1. Open IDEA, File -> Settings -> Plugins, Marketplace.
   1. Search and install these two plugins: OpenAPI Editor, Swagger (Zalando)
-1. To open Swagger UI there is a browser tooltip displayed line on the image below: ![img.png](img.png)
+1. To open Swagger UI there is a browser tooltip displayed line on the image below: 
+![image](https://user-images.githubusercontent.com/13381273/112120682-cdef6f00-8bbe-11eb-8f0a-b52ece85918a.png)
 
 
-### Local SwaggerUI within Docker ###
+### Local Swagger Editor within Docker ###
 
 1. Instal Docker Desktop:
   1. Mac: https://desktop.docker.com/mac/stable/Docker.dmg
